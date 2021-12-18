@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+This is the Fitness app which I have created using flutter it is not the finished version but it is partially complete. I created this app with the mind set that people can workout with proper diet plan and training shedule without the use of gym instructor and dietitian.
+
+For now this app has a Login page, Sign up page, workout page, profile(not completed) and the report page(not completed). 
